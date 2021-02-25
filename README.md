@@ -7,4 +7,4 @@
 
 YouTube : https://www.youtube.com/watch?v=YPOVd-hQUjA
 
-###### STANDS 2nd POSITION FROM HUB
+###### STANDS 2nd POSITION FROM HUB [3.45 HRS.]
