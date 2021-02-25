@@ -13,8 +13,8 @@ class Solution:
     def __init__(self) -> None:
         super().__init__()
         self.data = None
-        self.input_file_name = 'C:/Users/Anshumaan/Documents/Codes/hashcode21/d.txt'
-        self.output_file_name = 'C:/Users/Anshumaan/Documents/Codes/hashcode21/c.txt'
+        self.input_file_name = 'C:/Users/Anshumaan/Documents/Codes/hashcode21/c.txt'
+        self.output_file_name = 'C:/Users/Anshumaan/Documents/Codes/hashcode21/checkmate.txt'
         self.STREETS = {}
         self.CARS = {}
         self.STREETS_LENS = {}
